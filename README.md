@@ -1,6 +1,10 @@
 python_client_socket_chat
 =========================
 
+
+This code basically is designed to run Client and Server on the same PC.
+
+
 This server client chat will work on both windows and linux.
 
 Incase if it doesnot work, Please switch off the firewall in Windows and Linux respectively, such that the OS dosent prevent the Port acess.
