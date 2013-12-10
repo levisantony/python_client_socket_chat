@@ -17,3 +17,5 @@ NOTE:
 * Then run the client code.
  
 * If the server resides on a different PC in a network, provide the IP address of the server.
+ 
+* you have to add your own WHILE loops to continue receiving and sending messages without exiting the code.
